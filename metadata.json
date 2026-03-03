@@ -1,0 +1,7 @@
+{
+  "name": "Vanakam vandhanam website ",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
